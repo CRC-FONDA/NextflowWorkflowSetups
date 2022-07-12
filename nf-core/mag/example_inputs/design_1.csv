@@ -1,0 +1,6 @@
+sample,group,short_reads_1,short_reads_2,long_reads
+ERR3201908,0,inputs/ERR3201908_1.fastq.gz,inputs/ERR3201908_2.fastq.gz,
+ERR3201909,1,inputs/ERR3201909_1.fastq.gz,inputs/ERR3201909_2.fastq.gz,
+ERR3201910,2,inputs/ERR3201910_1.fastq.gz,inputs/ERR3201910_2.fastq.gz,
+ERR3201911,3,inputs/ERR3201911_1.fastq.gz,inputs/ERR3201911_2.fastq.gz,
+ERR3201912,4,inputs/ERR3201912_1.fastq.gz,inputs/ERR3201912_2.fastq.gz,
