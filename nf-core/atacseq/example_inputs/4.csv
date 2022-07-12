@@ -1,0 +1,7 @@
+group,replicate,fastq_1,fastq_2
+SRR7060328,1,inputs/SRR7060328_1.fastq.gz,inputs/SRR7060328_2.fastq.gz
+SRR7060329,1,inputs/SRR7060329_1.fastq.gz,inputs/SRR7060329_2.fastq.gz
+SRR7060330,1,inputs/SRR7060330_1.fastq.gz,inputs/SRR7060330_2.fastq.gz
+SRR7060331,1,inputs/SRR7060331_1.fastq.gz,inputs/SRR7060331_2.fastq.gz
+SRR7060332,1,inputs/SRR7060332_1.fastq.gz,inputs/SRR7060332_2.fastq.gz
+SRR7060333,1,inputs/SRR7060333_1.fastq.gz,inputs/SRR7060333_2.fastq.gz

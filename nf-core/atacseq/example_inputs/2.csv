@@ -1,0 +1,15 @@
+group,replicate,fastq_1,fastq_2
+SRR12046031,1,inputs/SRR12046031_1.fastq.gz,inputs/SRR12046031_2.fastq.gz
+SRR12046032,1,inputs/SRR12046032_1.fastq.gz,inputs/SRR12046032_2.fastq.gz
+SRR12046033,1,inputs/SRR12046033_1.fastq.gz,inputs/SRR12046033_2.fastq.gz
+SRR12046034,1,inputs/SRR12046034_1.fastq.gz,inputs/SRR12046034_2.fastq.gz
+SRR12046035,1,inputs/SRR12046035_1.fastq.gz,inputs/SRR12046035_2.fastq.gz
+SRR12046036,1,inputs/SRR12046036_1.fastq.gz,inputs/SRR12046036_2.fastq.gz
+SRR12046037,1,inputs/SRR12046037_1.fastq.gz,inputs/SRR12046037_2.fastq.gz
+SRR12046038,1,inputs/SRR12046038_1.fastq.gz,inputs/SRR12046038_2.fastq.gz
+SRR12046039,1,inputs/SRR12046039_1.fastq.gz,inputs/SRR12046039_2.fastq.gz
+SRR12046040,1,inputs/SRR12046040_1.fastq.gz,inputs/SRR12046040_2.fastq.gz
+SRR12046041,1,inputs/SRR12046041_1.fastq.gz,inputs/SRR12046041_2.fastq.gz
+SRR12046042,1,inputs/SRR12046042_1.fastq.gz,inputs/SRR12046042_2.fastq.gz
+SRR12046043,1,inputs/SRR12046043_1.fastq.gz,inputs/SRR12046043_2.fastq.gz
+SRR12046044,1,inputs/SRR12046044_1.fastq.gz,inputs/SRR12046044_2.fastq.gz
